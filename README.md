@@ -8,3 +8,5 @@
 4. gunicorn -k eventlet -b 0:8888 run:app
 ```
 然后即可访问：ip:8888
+
+![](http://wx2.sinaimg.cn/large/0060lm7Tly1fw5m7ppzh4g30wo0ko7wh.gif)
