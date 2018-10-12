@@ -1,0 +1,6 @@
+Flask
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+eventlet
